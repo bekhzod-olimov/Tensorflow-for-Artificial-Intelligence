@@ -4,13 +4,13 @@ This repository contains materials of [Tensorflow for Artificial Intelligence Pr
 
 ## Contents
 
-- TensorFlow for AI: Get to Know Tensorflow
-- TensorFlow for AI: Computer Vision Basics
-- TensorFlow for AI: Applying Image Convolution
-- TensorFlow for AI: Neural Network Representation
+- TensorFlow for AI: Get to Know Tensorflow;
+- TensorFlow for AI: Computer Vision Basics;
+- TensorFlow for AI: Applying Image Convolution;
+- TensorFlow for AI: Neural Network Representation;
 - Project.
   
-## Course Certificate
+## Project Certificates
 
 - [Get to Know Tensorflow](https://www.coursera.org/account/accomplishments/certificate/PS34K6GXUFVE)
 - [Computer Vision Basics](https://www.coursera.org/account/accomplishments/certificate/AXPCSHE8V8J8)
